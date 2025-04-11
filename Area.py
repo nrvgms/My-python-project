@@ -6,6 +6,7 @@ l = float(input("length: "))
 b = float(input("height: "))
 A= l*b
 C = 2*(l+b)
+print("This is to check the first commit")
 print("Area = {}".format(A)) # using format function
 print("Circumference = {}".format(C)) # using format function
 
